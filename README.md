@@ -43,7 +43,3 @@ Main work included:
 2. Review the overall robotic arm assembly first.
 3. Inspect the individual component drawings and 2D views.
 4. Use the Google Drive link if you prefer to download the original uploaded file.
-
-## License
-
-No open-source license has been declared. Please contact the project author before reusing the drawing or CAD data.
