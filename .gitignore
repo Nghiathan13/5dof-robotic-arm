@@ -1,0 +1,13 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# AutoCAD generated files
+*.bak
+*.sv$
+*.dwl
+*.dwl2
+*.tmp
+
+# Keep the final DWG in cad/.
