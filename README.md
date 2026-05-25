@@ -44,10 +44,6 @@ Main work included:
 3. Inspect the individual component drawings and 2D views.
 4. Use the Google Drive link if you prefer to download the original uploaded file.
 
-## Notes
-
-Only `Final_project.dwg` is part of this repository. Other local `Ve_ki_thuat` files were weekly assignments, homework, or quizzes and are intentionally excluded.
-
 ## License
 
 No open-source license has been declared. Please contact the project author before reusing the drawing or CAD data.
